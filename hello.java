@@ -6,5 +6,7 @@ class Hello{
     
      System.out.println("Welcome to Srint Boot");
 
+     System.out.println("Hello Branch");
+
     }  
 }  
